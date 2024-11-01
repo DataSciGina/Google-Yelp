@@ -188,8 +188,8 @@ Datos extraídos de la plataforma de reseñas **Yelp** y de **Google Maps**, par
 <p align='center'>📫 fernandezagostina.ra@gmail.com</p>
 
 <p align='center'>
-    <a href="https://github.com/DataSciGina" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn Agostina Fernández" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/agostina-fern%c3%a1ndez-aab4a8323/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" alt="GitHub Agostina Fernández" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/agostina-fern%c3%a1ndez-aab4a8323/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn Agostina Fernández" height="40" width="40" /></a>
+    <a href="https://github.com/DataSciGina" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" alt="GitHub Agostina Fernández" height="40" width="40" /></a>
 </p>
 
 <h2 align='center' id='autores'>Autores</h2>
