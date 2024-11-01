@@ -95,26 +95,25 @@ Nuestro objetivo es la recopilación, procesamiento y análisis de datos en los 
 
 <b>📁 Google-Yelp</b>
 
-- 📁 data/
-    - raw/: Datos crudos descargados
-    - processed/: Datos procesados y listos para análisis
-    - external/: Fuentes de datos adicionales (externas)
-- 📁 notebooks/: Jupyter Notebooks para exploración de datos y desarrollo del modelo
-- 📁 src/
-    - data/: Scripts de procesamiento y limpieza de datos
-    - features/: Scripts para generación de características para modelos
-    - models/: Scripts para entrenamiento y evaluación de modelos
-    - visualization/: Scripts para generación de gráficos y visualizaciones
-    - utils/: Funciones y utilidades auxiliares
-- 📁 reports/
-    - figures/: Gráficos e imágenes para informes
-    - results/: Resultados finales del análisis y del modelo
-- 📁 tests/: Tests para asegurar calidad en los scripts y funciones
+- 📁 **data/**
+    - **raw/:** Datos crudos descargados
+    - **processed/:** Datos procesados y listos para análisis
+    - **external/:** Fuentes de datos adicionales (externas)
+- 📁 **notebooks/:** Jupyter Notebooks para exploración de datos y desarrollo del modelo
+- 📁 **src/**
+    - **data/:** Scripts de procesamiento y limpieza de datos
+    - **features/:** Scripts para generación de características para modelos
+    - **models/:** Scripts para entrenamiento y evaluación de modelos
+    - **visualization/:** Scripts para generación de gráficos y visualizaciones
+    - **utils/:** Funciones y utilidades auxiliares
+- 📁 **reports/**
+    - **figures/:** Gráficos e imágenes para informes
+    - **results/:** Resultados finales del análisis y del modelo
+- 📁 **tests/:** Tests para asegurar calidad en los scripts y funciones
 
-- README.md: Información general del proyecto
-- requirements.txt: Dependencias del proyecto
-- .gitignore: Archivos y carpetas a ignorar en Git
-- LICENSE: Licencia de uso
+- **README.md:** Información general del proyecto
+- **requirements.txt:** Dependencias del proyecto
+- **.gitignore:** Archivos y carpetas a ignorar en Git
 
 
 <h2 align='center' id='use'>Uso y Ejecución</h2>
